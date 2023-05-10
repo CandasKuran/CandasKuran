@@ -17,11 +17,11 @@
 
 ### :bowtie: About Me :
 
-I am a student who lives in Switzerland
+Hi my name is Candas Kuran,
 
 - :man_student: Actually I'm still a student!
 
-- :zap: I work on my personal and school projects and share them here
+- :zap: I work on my personal and school projects and share them here.
 
 
 
