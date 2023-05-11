@@ -39,7 +39,7 @@ Hi my name is Candas Kuran,
 
 
 ### :bow_and_arrow: I Learn :
-   <img height=70 src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />   <img height=70 src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" />   <img height=70 src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" />
+   <img height=70 src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />   <img height=70 src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" />   <img height=70 src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" /> <img height=70 src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" /> 
 
 
           
