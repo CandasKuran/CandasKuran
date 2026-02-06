@@ -12,10 +12,11 @@
 
 <h3>👨‍💻 About Me</h3>
 
-🎓 IT student (Operating Systems & Infrastructure)  
-🔐 Interested in cybersecurity, networks & system administration  
-🚀 Working on personal and school projects  
-📚 Always learning  
+
+→ 🎓 IT student (Operating Systems & Infrastructure)
+→ 🔐 Interested in cybersecurity, networks & system administration  
+→ 🚀 Working on personal and school projects  
+→ 📚 Always learning  
 
 </td>
 
