@@ -51,13 +51,13 @@ Hi there 👋 I'm Candas Kuran
 ---
 
 ## 📂 Highlighted Projects
-
+<!--
 ### 🔎 SECNET – Network Monitoring Tool
 - Device detection on network  
 - Port scanning with Nmap  
 - Automatic blocking of suspicious devices  
 - Email alerts for threats  
-
+-->
 ### 🖥️ Virtual Lab
 - Proxmox server setup  
 - Multiple VMs (Windows, Linux, Kali)  
