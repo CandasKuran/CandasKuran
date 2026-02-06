@@ -33,11 +33,19 @@
 <tr>
 
 <td align="center" width="250">
-<a href="https://github.com/CandasKuran/SECNET">
-<img src="https://raw.githubusercontent.com/CandasKuran/SECNET/main/preview.png" width="220"/>
-<br><b>SECNET</b>
+<a href="https://github.com/CandasKuran/HEIG-Print">
+<img src="https://raw.githubusercontent.com/CandasKuran/HEIG-Print/main/preview.png" width="220"/>
+<br><b>HEIG-Print</b>
 </a>
-<p>Network monitoring & security tool</p>
+<p>Automatic printer installation app</p>
+</td>
+
+<td align="center" width="250">
+<a href="https://github.com/CandasKuran/proj-dino">
+<img src="https://raw.githubusercontent.com/CandasKuran/proj-dino/main/preview.png" width="220"/>
+<br><b>Dino Game</b>
+</a>
+<p>Small Python game</p>
 </td>
 
 <td align="center" width="250">
@@ -49,19 +57,11 @@
 </td>
 
 <td align="center" width="250">
-<a href="https://github.com/CandasKuran/gestion_pret">
-<img src="https://raw.githubusercontent.com/CandasKuran/gestion_pret/main/preview.png" width="220"/>
-<br><b>Gestion Prêt</b>
+<a href="https://github.com/CandasKuran/Ardunio-projetSimon">
+<img src="https://raw.githubusercontent.com/CandasKuran/Ardunio-projetSimon/master/preview.png" width="220"/>
+<br><b>Arduino Simon Game</b>
 </a>
-<p>Loan management system</p>
-</td>
-
-<td align="center" width="250">
-<a href="https://github.com/CandasKuran/Virtual-Lab">
-<img src="https://raw.githubusercontent.com/CandasKuran/Virtual-Lab/main/preview.png" width="220"/>
-<br><b>Virtual Lab</b>
-</a>
-<p>Proxmox & VM lab environment</p>
+<p>Arduino memory game project</p>
 </td>
 
 </tr>
