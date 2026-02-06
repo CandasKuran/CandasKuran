@@ -25,8 +25,6 @@
 
 • CPNV – CFC Informatique (Operating Systems & Infrastructure)
 
-<br>
-
 <h3>💼 Experience</h3>
 
 • HEIG-VD – IT Department  
