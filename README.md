@@ -37,7 +37,7 @@
 <img src="https://raw.githubusercontent.com/CandasKuran/HEIG-Print/main/preview.png" width="220"/>
 <br><b>HEIG-Print</b>
 </a>
-<p>Automatic printer installation app</p>
+<p>Automatic printer installation</p>
 </td>
 
 <td align="center" width="250">
