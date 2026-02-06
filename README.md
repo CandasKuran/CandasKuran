@@ -3,7 +3,7 @@ Hi there 👋 I'm Candas Kuran
 </h1>
 
 <p align="center">
-💻 IT Student | 🌐 Network & Cybersecurity Enthusiast | 🛠️ Project Builder
+💻 IT Student
 </p>
 
 ---
@@ -63,28 +63,21 @@ Hi there 👋 I'm Candas Kuran
 - Multiple VMs (Windows, Linux, Kali)  
 - Network testing environment  
 
-(More coming soon 🚧)
-
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (working)
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=CandasKuran&show_icons=true&theme=radical" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CandasKuran&layout=compact&theme=radical" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=CandasKuran&show_icons=true&theme=radical&cache_seconds=1800"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CandasKuran&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CandasKuran&layout=compact&theme=radical"/>
 </p>
 
----
-
-## 📫 Contact
-
-- GitHub: https://github.com/CandasKuran  
-
-(Portfolio website coming later 😉)
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=CandasKuran&theme=radical"/>
+</p>
 
 ---
 
