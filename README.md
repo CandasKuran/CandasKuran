@@ -1,84 +1,91 @@
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<h1 align="center">
+Hi there 👋 I'm Candas Kuran
 </h1>
 
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/26vACLXgansDXwHzzI/giphy.gif" width="250"/>
-</div>
-
-
-
-
+<p align="center">
+💻 IT Student | 🌐 Network & Cybersecurity Enthusiast | 🛠️ Project Builder
+</p>
 
 ---
 
+## 👨‍💻 About Me
 
-### :bowtie: About Me :
-
-Hi my name is Candas Kuran,
-
-- :man_student: Actually I'm still a student!
-
-- :zap: I work on my personal and school projects and share them here.
-
-
-
-
+- 🎓 IT student (Operating Systems & Infrastructure background)  
+- 🔐 Interested in cybersecurity, networks and system administration  
+- 🚀 I work on personal and school projects and share them here  
+- 📚 Always learning new technologies  
 
 ---
 
+## 🧰 Languages & Technologies
 
-### :gear: Languages and Tools :
+### ✅ What I use
 
-<img height=70 src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" />  <img height=70 src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" />  <img height=70 src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" /> <img height=70 src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" />
-
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/>
+</p>
 
 ---
 
+### 📖 Currently learning
 
-### :bow_and_arrow: I Learn :
-   <img height=70 src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />   <img height=70 src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" />   <img height=70 src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" /> <img height=70 src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" /> 
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50"/>
+</p>
 
-
-          
 ---
 
+## 🔐 Main Interests
 
+- Network administration  
+- Cybersecurity & monitoring tools  
+- Virtualization (Proxmox, VMware)  
+- Automation with scripts  
+- System security & hardening  
 
+---
 
+## 📂 Highlighted Projects
 
+### 🔎 SECNET – Network Monitoring Tool
+- Device detection on network  
+- Port scanning with Nmap  
+- Automatic blocking of suspicious devices  
+- Email alerts for threats  
 
+### 🖥️ Virtual Lab
+- Proxmox server setup  
+- Multiple VMs (Windows, Linux, Kali)  
+- Network testing environment  
 
+(More coming soon 🚧)
 
+---
 
+## 📊 GitHub Stats
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=CandasKuran&show_icons=true&theme=radical" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CandasKuran&layout=compact&theme=radical" height="160"/>
+</p>
 
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CandasKuran&theme=radical"/>
+</p>
 
+---
 
+## 📫 Contact
 
-### :fire: My Stats :
+- GitHub: https://github.com/CandasKuran  
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CandasKuran&count_private=true&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats#dark)
+(Portfolio website coming later 😉)
 
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CandasKuran&theme=gruvbox_duo&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
- 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CandasKuran&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats#radical)
+---
 
-
-
-<!--
-**CandasKuran/CandasKuran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ Feel free to explore my repositories and projects!
