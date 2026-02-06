@@ -34,7 +34,7 @@
 
 </tr>
 </table>
----
+--
 
 🧰 Technologies
 <p> 
