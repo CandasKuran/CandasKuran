@@ -65,18 +65,14 @@ Hi there 👋 I'm Candas Kuran
 
 ---
 
-## 📊 GitHub Stats (working)
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=CandasKuran&show_icons=true&theme=radical&cache_seconds=1800"/>
+<img src="https://github-readme-stats.vercel.app/api?username=CandasKuran&show_icons=true&theme=dark" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CandasKuran&layout=compact&theme=radical"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=CandasKuran&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CandasKuran&layout=compact&theme=dark" />
 </p>
 
 ---
