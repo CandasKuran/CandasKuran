@@ -14,6 +14,7 @@
 
 
 🎓 IT student (Operating Systems & Infrastructure)
+
 🔐 Interested in cybersecurity, networks & system administration  
 🚀 Working on personal and school projects  
 📚 Always learning  
@@ -24,12 +25,12 @@
 
 <h3>🎓 Formation</h3>
 
-• CPNV – CFC Informatique (Operating Systems & Infrastructure)
+→ CPNV – CFC Informatique (Operating Systems & Infrastructure)
 
 <h3>💼 Experience</h3>
 
-• HEIG-VD – IT Department  
-• 1 year internship (system & infrastructure)
+→ HEIG-VD – IT Department  
+1 year internship (system & infrastructure)
 
 </td>
 
