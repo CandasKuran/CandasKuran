@@ -65,6 +65,26 @@ Hi there 👋 I'm Candas Kuran
 
 ---
 
+---
+
+## 📂 Featured Projects
+
+<p align="center">
+<a href="https://github.com/CandasKuran/SECNET">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CandasKuran&repo=SECNET&theme=dark" />
+</a>
+
+<a href="https://github.com/CandasKuran/Projet-Docker">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CandasKuran&repo=Projet-Docker&theme=dark" />
+</a>
+
+<a href="https://github.com/CandasKuran/gestion_pret">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CandasKuran&repo=gestion_pret&theme=dark" />
+</a>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
