@@ -67,13 +67,8 @@ Hi there 👋 I'm Candas Kuran
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=CandasKuran&show_icons=true&theme=dark" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=CandasKuran&show_icons=true&theme=dark&v=1" />
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CandasKuran&layout=compact&theme=dark" />
-</p>
 
 ---
 
