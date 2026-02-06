@@ -25,7 +25,7 @@
 
 • CPNV – CFC Informatique (Operating Systems & Infrastructure)
 
-<br><br>
+<br>
 
 <h3>💼 Experience</h3>
 
