@@ -1,101 +1,82 @@
-<h1 align="center">
-Hi there 👋 I'm Candas Kuran
-</h1>
+<h1 align="center">Hi 👋 I'm Candas Kuran</h1>
 
 <p align="center">
-💻 IT Student
+💻 IT Student | 🔐 Cybersecurity & Infrastructure
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 IT student (Operating Systems & Infrastructure background)  
-- 🔐 Interested in cybersecurity, networks and system administration  
-- 🚀 I work on personal and school projects and share them here  
-- 📚 Always learning new technologies  
+- 🎓 IT student (Operating Systems & Infrastructure)  
+- 🔐 Interested in cybersecurity, networks & system administration  
+- 🚀 Working on personal and school projects  
+- 📚 Always learning  
 
 ---
 
-## 🧰 Languages & Technologies
-
-### ✅ What I use
+## 🧰 Technologies
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="45"/>
 </p>
-
----
-
-### 📖 Currently learning
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50"/>
-</p>
-
----
-
-## 🔐 Main Interests
-
-- Network administration  
-- Cybersecurity & monitoring tools  
-- Virtualization (Proxmox, VMware)  
-- Automation with scripts  
-- System security & hardening  
-
----
-
-## 📂 Highlighted Projects
-<!--
-### 🔎 SECNET – Network Monitoring Tool
-- Device detection on network  
-- Port scanning with Nmap  
-- Automatic blocking of suspicious devices  
-- Email alerts for threats  
--->
-### 🖥️ Virtual Lab
-- Proxmox server setup  
-- Multiple VMs (Windows, Linux, Kali)  
-- Network testing environment  
-
----
 
 ---
 
 ## 📂 Featured Projects
 
-<p align="center">
+<table align="center">
+<tr>
+
+<td align="center" width="250">
 <a href="https://github.com/CandasKuran/SECNET">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CandasKuran&repo=SECNET&theme=dark" />
+<img src="https://raw.githubusercontent.com/CandasKuran/SECNET/main/preview.png" width="220"/>
+<br><b>SECNET</b>
 </a>
+<p>Network monitoring & security tool</p>
+</td>
 
+<td align="center" width="250">
 <a href="https://github.com/CandasKuran/Projet-Docker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CandasKuran&repo=Projet-Docker&theme=dark" />
+<img src="https://raw.githubusercontent.com/CandasKuran/Projet-Docker/main/preview.png" width="220"/>
+<br><b>Projet Docker</b>
 </a>
+<p>Docker infrastructure project</p>
+</td>
 
+<td align="center" width="250">
 <a href="https://github.com/CandasKuran/gestion_pret">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CandasKuran&repo=gestion_pret&theme=dark" />
+<img src="https://raw.githubusercontent.com/CandasKuran/gestion_pret/main/preview.png" width="220"/>
+<br><b>Gestion Prêt</b>
 </a>
-</p>
+<p>Loan management system</p>
+</td>
+
+<td align="center" width="250">
+<a href="https://github.com/CandasKuran/Virtual-Lab">
+<img src="https://raw.githubusercontent.com/CandasKuran/Virtual-Lab/main/preview.png" width="220"/>
+<br><b>Virtual Lab</b>
+</a>
+<p>Proxmox & VM lab environment</p>
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## 🔐 Interests
 
-<p align="center">
-<img src="https://github.com/CandasKuran/Python-OpenCV-FaceDetection" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CandasKuran&layout=compact&theme=dark" />
-</p>
-
+- Network administration  
+- Cybersecurity tools  
+- Virtualization (Proxmox, VMware)  
+- Automation & scripting  
+- System hardening  
 
 ---
 
-⭐ Feel free to explore my repositories and projects!
+⭐ Feel free to explore my projects!
