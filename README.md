@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Candas Kuran</h1>
 
 <p align="center">
-💻 IT Student | 🔐 Cybersecurity & Infrastructure
+💻 IT Student 
 </p>
 
 ---
@@ -26,8 +26,6 @@
 
 ---
 
----
-
 📖 Currently learning
 
 <p> 
@@ -35,6 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="45"/> 
 </p>
+
 ---
 
 ## 📂 Featured Projects
@@ -71,7 +70,7 @@
 <img src="https://raw.githubusercontent.com/CandasKuran/Ardunio-projetSimon/master/preview.png" width="220"/>
 <br><b>Arduino Simon Game</b>
 </a>
-<p>Arduino memory game project</p>
+<p>Arduino memory game</p>
 </td>
 
 </tr>
