@@ -5,14 +5,37 @@
 </p>
 
 ---
+<table width="100%">
+<tr>
 
-## 👨‍💻 About Me
+<td width="50%" valign="top">
 
-- 🎓 IT student (Operating Systems & Infrastructure)  
-- 🔐 Interested in cybersecurity, networks & system administration  
-- 🚀 Working on personal and school projects  
-- 📚 Always learning  
+<h3>👨‍💻 About Me</h3>
 
+🎓 IT student (Operating Systems & Infrastructure)  
+🔐 Interested in cybersecurity, networks & system administration  
+🚀 Working on personal and school projects  
+📚 Always learning  
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🎓 Formation</h3>
+
+• CPNV – CFC Informatique (Operating Systems & Infrastructure)
+
+<br><br>
+
+<h3>💼 Experience</h3>
+
+• HEIG-VD – IT Department  
+• 1 year internship (system & infrastructure)
+
+</td>
+
+</tr>
+</table>
 ---
 
 🧰 Technologies
