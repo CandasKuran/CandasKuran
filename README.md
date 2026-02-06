@@ -88,7 +88,7 @@ Hi there 👋 I'm Candas Kuran
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=CandasKuran&show_icons=true&theme=dark" />
+<img src="https://github.com/CandasKuran/Python-OpenCV-FaceDetection" />
 </p>
 
 <p align="center">
